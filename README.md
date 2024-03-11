@@ -6,15 +6,31 @@
 
 For each video in VastTrack, we provide bounding box annotations, complete occlusion and out-of-view labels, as well as linguistic descriptions. The format of the bounding box is as follows: [x, y, width, height]. (Our training set is divided into 82 parts of compressed packages, with the category corresponding to each compressed package specified in a JSON file.) The test set consists of 15 parts of compressed packages.
 
-![image](https://github.com/HengLan/VastTrack/assets/39480565/c263faf6-58a3-443e-9bda-76a7b8d4351c)
 
-You can download it through the following two methods:
+You can download  it through the following two methods:
 
-OneDrive: https://1drv.ms/f/s!AnWdA-LZ-BEt5W9kQtMU8nB19qpy?e=IYm3eF
+
+part-num.zip
+├── class1
+│   └── video
+│       ├── imgs
+│       ├── nlp.txt
+│       └── Groundtruth.txt
+└── class2
+    └── video
+        ├── imgs
+        ├── nlp.txt
+        └── Groundtruth.txt
+
+
+OneDrive: 
+
+Train
+https://1drv.ms/f/s!AnWdA-LZ-BEt5W9kQtMU8nB19qpy?e=IYm3eF
 
 Baidu Cloud Drive:
 
-train:
+Train:
 Link: https://pan.baidu.com/s/1ov-4PkKWsmiM_QZLL7pZQw?pwd=glze
 Extraction code: glze
 
