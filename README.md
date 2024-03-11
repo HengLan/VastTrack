@@ -11,13 +11,13 @@ You can download  it through the following two methods:
 
 
 part-num.zip
-├── class1
-│   └── video
-│       ├── imgs
-│       ├── nlp.txt
-│       └── Groundtruth.txt
-└── class2
-    └── video
+── class1
+       └── video
+       ├── imgs
+       ├── nlp.txt
+       └── Groundtruth.txt
+── class2
+        └── video
         ├── imgs
         ├── nlp.txt
         └── Groundtruth.txt
