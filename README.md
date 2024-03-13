@@ -16,6 +16,8 @@ Liang Peng<sup>\*</sup>, Junyuan Gao<sup>\*</sup>, Xinran Liu<sup>\*</sup>, Weih
     - VastTrack comprises **50,610** sequences, which makes it to date the **largest** regarding video number
 * **Rich Linguistic Description**
     - VastTrack provides linguistic description for each video, collecting **over 50K** sentences for vision-language tracking
+* **High-quality and Dense Annotation**
+    - As always, VastTrack offers high-quality per-frame annotations for all the videos
 
 ## Dataset Download
 For each video in VastTrack, we provide bounding box annotations, complete occlusion and out-of-view labels, as well as linguistic descriptions. The format of the bounding box is as follows: [x, y, width, height]. (Our training set is divided into 82 parts of compressed packages, with the category corresponding to each compressed package specified in a JSON file.) The test set consists of 15 parts of compressed packages.
