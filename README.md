@@ -10,8 +10,6 @@
 Liang Peng<sup>\*</sup>, Junyuan Gao<sup>\*</sup>, Xinran Liu<sup>\*</sup>, Weihong Li<sup>\*</sup>, Shaohua Dong<sup>\*</sup>, Zhipeng Zhang, Heng Fan<sup>$\dagger$</sup>, Libo Zhang<sup>$\dagger$</sup> <br> (<sup>\*</sup>: equal contribution; <sup>$\dagger$</sup>equal advising)<br>
 [[`Paper`](https://arxiv.org/abs/2403.03493)] [[`Matlab Code`](https://github.com/HengLan/VastTrack/tree/main/MatlabEvaluationToolkit)] [[`Python Code`](https://github.com/HengLan/VastTrack/tree/main/PythonEvaluationToolkit)]
 
-<br>
-
 
 
 ## Attractive Properties of VastTrack
