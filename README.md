@@ -13,9 +13,9 @@ Liang Peng<sup>\*</sup>, Junyuan Gao<sup>\*</sup>, Xinran Liu<sup>\*</sup>, Weih
 * **Vast Object Category**
     - VastTrack contains **2,115 object classes**, largely surpassing object categories of existing benchmarks
 * **Larger Scale**
-    - VastTrack comprises **50,610** videos with 4.2 million frames, which makes it to date the **largest** regarding video number
+    - VastTrack comprises **50,610** videos with 4.2**M** frames, making it so far the **largest** regarding video number
 * **Rich Linguistic Description**
-    - VastTrack provides linguistic description for each video, collecting **over 50K** language sentences
+    - VastTrack provides a linguistic description for each video sequence, collecting **more than 50K** language descriptions
 * **High-quality and Dense Annotation**
     - As always, VastTrack offers high-quality per-frame bounding box annotations for all the video sequences
 
