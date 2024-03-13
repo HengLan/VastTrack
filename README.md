@@ -10,8 +10,8 @@ Liang Peng<sup>\*</sup>, Junyuan Gao<sup>\*</sup>, Xinran Liu<sup>\*</sup>, Weih
 
 ## Attractive Properties of VastTrack
 
-* first
-    - first-first
+* **Vast Object Category**
+    - VastTrack contains 2,115 object classes, the richest benchmark so far in category
 * second
     - second-second
 
