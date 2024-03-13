@@ -4,12 +4,13 @@
 
 **Figure:** We introduce [**VastTrack**](https://arxiv.org/abs/2403.03493), a new large-scale benchmark that aims to facilitate general single object tracking with abundant object categories (over **2.1K classes**) and videos (**over 50K sequences**). Here display partial target trajectory in a video. <em>Please notice that, only a very small part of categories and videos are demonstrated</em>.
 
+<br>
 
 [VastTrack: Vast Category Visual Object Tracking](https://arxiv.org/abs/2403.03493) <br>
 Liang Peng<sup>\*</sup>, Junyuan Gao<sup>\*</sup>, Xinran Liu<sup>\*</sup>, Weihong Li<sup>\*</sup>, Shaohua Dong<sup>\*</sup>, Zhipeng Zhang, Heng Fan<sup>$\dagger$</sup>, Libo Zhang<sup>$\dagger$</sup> <br> (<sup>\*</sup>: equal contribution; <sup>$\dagger$</sup>equal advising)<br>
 [[`arXiv`](https://arxiv.org/abs/2403.03493)] [[`Matlab Code`](https://github.com/HengLan/VastTrack/tree/main/MatlabEvaluationToolkit)] [[`Python Code`](https://github.com/HengLan/VastTrack/tree/main/PythonEvaluationToolkit)]
 
-
+<br>
 
 ## Attractive Properties of VastTrack
 
@@ -21,6 +22,9 @@ Liang Peng<sup>\*</sup>, Junyuan Gao<sup>\*</sup>, Xinran Liu<sup>\*</sup>, Weih
     - VastTrack provides a linguistic description for each sequence, collecting **more than 50K** language descriptions
 * **High-quality and Dense Annotation**
     - VastTrack offers **manual per-frame** annotations for all sequences, building a high-quality platform for visual trackers
+
+
+<br>
 
 ## Dataset Download
 For each video in VastTrack, we provide bounding box annotations, complete occlusion and out-of-view labels, as well as linguistic descriptions. The format of the bounding box is as follows: [x, y, width, height]. (Our training set is divided into 82 parts of compressed packages, with the category corresponding to each compressed package specified in a JSON file.) The test set consists of 15 parts of compressed packages.
