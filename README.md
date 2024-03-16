@@ -1,16 +1,14 @@
 # VastTrack: Vast Category Visual Object Tracking
 
-<img src="https://github.com/HengLan/VastTrack/blob/main/assets/VastTrack.png" width="110%">
-
-**Figure:** We introduce [**VastTrack**](https://arxiv.org/abs/2403.03493), a new large-scale benchmark that aims to facilitate general single object tracking with abundant object categories (over **2.1K classes**) and videos (**over 50K sequences**). Here display partial target trajectory in a video. <em>Please notice that, only a very small part of categories and videos are demonstrated</em>.
-
-<br>
-
 [**VastTrack: Vast Category Visual Object Tracking**](https://arxiv.org/abs/2403.03493) <br>
 Liang Peng<sup>\*</sup>, Junyuan Gao<sup>\*</sup>, Xinran Liu<sup>\*</sup>, Weihong Li<sup>\*</sup>, Shaohua Dong<sup>\*</sup>, Zhipeng Zhang, Heng Fan<sup>$\dagger$</sup>, Libo Zhang<sup>$\dagger$</sup> <br> (\*: equal contribution; $\dagger$: equal advising)<br>
 [[`arXiv`](https://arxiv.org/abs/2403.03493)] [[`Matlab Code`](https://github.com/HengLan/VastTrack/tree/main/MatlabEvaluationToolkit)] [[`Python Code`](https://github.com/HengLan/VastTrack/tree/main/PythonEvaluationToolkit)]
 
 <br>
+
+<img src="https://github.com/HengLan/VastTrack/blob/main/assets/VastTrack.png" width="110%">
+
+**Figure:** We introduce [**VastTrack**](https://arxiv.org/abs/2403.03493), a new large-scale benchmark that aims to facilitate general single object tracking with abundant object categories (over **2.1K classes**) and videos (**over 50K sequences**). Here display partial target trajectory in a video. <em>Please notice that, only a very small part of categories and videos are demonstrated</em>.
 
 ## Attractive Properties of VastTrack
 
