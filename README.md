@@ -81,7 +81,7 @@ Below are the downloading links of VastTrack. We offer two ways, `OneDrive` and 
   - The downloading link for the **`test set`** is here (to be uploaded).
 
 * **Baidu Cloud Drive**
-  - The downloading link for the **`training set`** is [here]([https://pan.baidu.com/s/1_cGe3XR7hgqMSUzQjKaz5A?pwd=qs2c]) (you may need the extraction code: `qs2c`).
+  - The downloading link for the **`training set`** is [here](https://pan.baidu.com/s/1_cGe3XR7hgqMSUzQjKaz5A?pwd=qs2c) (you may need the extraction code: `qs2c`).
   - The downloading link for the **`test set`** is here (to be uploaded).
 
 **Note:** The training set of VastTrack contains 82 Zip files in total, and the category corresponding to each compressed package is specified in a JSON file. The test set consists of 15 Zip packages.
