@@ -53,7 +53,7 @@ You can download  it through the following two methods:
 
 
 ```
-part-num.zip
+part-1.zip
 ├── class-1
 │   └── video-1
 │       ├── imgs
@@ -63,6 +63,7 @@ part-num.zip
 │       ├── imgs
 │       ├── nlp.txt
 │       └── Groundtruth.txt
+...
 └── class-2
 │   └── video-1
 │       ├── imgs
@@ -72,6 +73,8 @@ part-num.zip
 │       ├── imgs
 │       ├── nlp.txt
 │       └── Groundtruth.txt
+...
+|
 ...
 ```
 
