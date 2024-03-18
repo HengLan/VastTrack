@@ -24,7 +24,7 @@ Liang Peng<sup>\*</sup>, Junyuan Gao<sup>\*</sup>, Xinran Liu<sup>\*</sup>, Weih
 ## :video_camera:Video Samples
 Coming ...
 
-## Benchmarking
+## :triangular_flag_on_post:Benchmarking
 Coming ...
 
 ## :globe_with_meridians:Dataset Download
