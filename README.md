@@ -85,35 +85,9 @@ Below are the downloading links of VastTrack. We offer two ways, `OneDrive` and 
   - The downloading link for the **`training set`** is [here](https://pan.baidu.com/s/1ov-4PkKWsmiM_QZLL7pZQw?pwd=glze) (you may need the extraction code: `glze`).
   - The downloading link for the **`test set`** is here (to be uploaded).
 
-
-Baidu Cloud Drive:
-
-Train:
-Link: https://pan.baidu.com/s/1ov-4PkKWsmiM_QZLL7pZQw?pwd=glze
-Extraction code: glze
-
-
-
-Particularly, there
-(Our training set is divided into 82 parts of compressed packages, with the category corresponding to each compressed package specified in a JSON file.) The test set consists of 15 parts of compressed packages.
-
-
-You can download  it through the following two methods:
-
-
-
-
-OneDrive: 
-
-Train
-https://1drv.ms/f/s!AnWdA-LZ-BEt5W9kQtMU8nB19qpy?e=IYm3eF
-
-Baidu Cloud Drive:
-
-Train:
-Link: https://pan.baidu.com/s/1ov-4PkKWsmiM_QZLL7pZQw?pwd=glze
-Extraction code: glze
+**Note:** The training set of VastTrack contains 82 Zip files in total, and the category corresponding to each compressed package is specified in a JSON file. The test set consists of 15 Zip packages.
 
 ## :straight_ruler:Evaluation Toolkit
-
-**More details will be coming ... stay tuned**
+We provide two variats of evaluation toolkit for Matlab and Python users.
+* [Matlab Evaluation Toolkit](https://github.com/HengLan/VastTrack/tree/main/MatlabEvaluationToolkit)
+* [Python Evaluation Toolkit](https://github.com/HengLan/VastTrack/tree/main/PythonEvaluationToolkit)
