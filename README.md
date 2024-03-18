@@ -78,8 +78,10 @@ In each video folder, we provide the frames of the video in the `imgs/` sub-fold
 Below are the downloading links of VastTrack. We offer two ways, `OneDrive` and `Baidu Cloud Drive`, to download the data.
 
 #### OneDrive
-`OneDrive-Train`
-https://1drv.ms/f/s!AnWdA-LZ-BEt5W9kQtMU8nB19qpy?e=IYm3eF
+
+* The downloading link for the **`training set`** is [here](https://1drv.ms/f/s!AnWdA-LZ-BEt5W9kQtMU8nB19qpy?e=IYm3eF).
+* The downloading link for the **`test set`** is here (to be uploaded).
+
 
 Baidu Cloud Drive:
 
