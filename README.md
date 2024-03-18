@@ -28,7 +28,7 @@ Liang Peng<sup>\*</sup>, Junyuan Gao<sup>\*</sup>, Xinran Liu<sup>\*</sup>, Weih
 **Figure:** Visualization of several annotation examples along with the linguistic descriptions in the proposed VastTrack.
 
 ## :triangular_flag_on_post:Benchmarking
-### Overall Evaluation SOTA Trackers
+### :large_blue_diamond:Overall Evaluation SOTA Trackers
 <img src="https://github.com/HengLan/VastTrack/blob/main/assets/overallres.png" width="110%">
 
 **Figure:** Overall evaluation of representative SOTA trackers from different years on VastTrack using PRE/NPRE/SUC.
