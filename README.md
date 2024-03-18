@@ -71,7 +71,7 @@ part-2.zip
 ```
 You need to download all the zips files using the provided links below for a full version of VastTrack.
 
-### :small_blue_diamond:Format of Videos
+### :small_blue_diamond:Format of Each Video Sequence
 For each video folder, we provide the frames of the video in the `imgs/` sub-folder, bounding box annotations in the `Groundtruth.txt` file, and linguistic description in the `nlp.txt` file. The format of the bounding box is as follows: `[x, y, width, height]`.
 
 
