@@ -74,8 +74,10 @@ You need to download all the zips files using the provided links below for a ful
 ### :small_blue_diamond:Format of Each Video Sequence
 In each video folder, we provide the frames of the video in the `imgs/` sub-folder, bounding box annotations in the `Groundtruth.txt` file, and linguistic description in the `nlp.txt` file. The format of the bounding box is as follows: `[x, y, width, height]`.
 
-### :small_blue_diamond:`Downloading Links`
+### :small_blue_diamond:Downloading Links
+Below are the downloading links of VastTrack. We offer two ways, `OneDrive` and `Baidu Cloud Drive`, to download the data.
 
+Particularly, there
 (Our training set is divided into 82 parts of compressed packages, with the category corresponding to each compressed package specified in a JSON file.) The test set consists of 15 parts of compressed packages.
 
 
