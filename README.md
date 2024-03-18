@@ -92,11 +92,11 @@ We provide two variats of evaluation toolkit for Matlab and Python users.
 * [Matlab Evaluation Toolkit](https://github.com/HengLan/VastTrack/tree/main/MatlabEvaluationToolkit)
 * [Python Evaluation Toolkit](https://github.com/HengLan/VastTrack/tree/main/PythonEvaluationToolkit)
 
-## License
+## :memo:License
 The video sequences in VastTrack are collected from [YouTube](https://www.youtube.com/) (under Creative Commons Attribution 4.0 License) as it is currently the largest the video platform and many videos come from the real world. We provide VastTrack for **non-commercial research purposes only** and are not responsible for the content of these videos.
 
 ## :balloon:Citation
-:balloon:If you find our VastTrack useful, please consider giving it a star and citing it. Thanks!
+If you find our VastTrack useful, please consider giving it a star and citing it. Thanks!
 ```
 @article{peng2024vasttrack,
   title={VastTrack: Vast Category Visual Object Tracking},
