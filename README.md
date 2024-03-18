@@ -36,13 +36,14 @@ Liang Peng<sup>\*</sup>, Junyuan Gao<sup>\*</sup>, Xinran Liu<sup>\*</sup>, Weih
 ### :small_blue_diamond:Attribute-based Evaluation
 <img src="https://github.com/HengLan/VastTrack/blob/main/assets/sucattres.png" width="110%">
 
-**Figure:** Attribute-based evaluation of different tracking algorithms on VastTrack using SUC (more in [paper](https://arxiv.org/abs/2403.03493)).
+**Figure:** Attribute-based evaluation of different tracking algorithms on VastTrack using SUC (more in the [paper](https://arxiv.org/abs/2403.03493)).
 
 ### :small_blue_diamond:Qualitative Evaluation 
 <img src="https://github.com/HengLan/VastTrack/blob/main/assets/vistrackingres.png" width="110%">
 
 **Figure:** Qualitative results of eight representative trackers on different sequences containing different challenges.
 
+### More experimental results can be found in the [paper](https://arxiv.org/abs/2403.03493)
 
 ## :globe_with_meridians:Dataset Download
 For each video in VastTrack, we provide bounding box annotations, complete occlusion and out-of-view labels, as well as linguistic descriptions. The format of the bounding box is as follows: [x, y, width, height]. (Our training set is divided into 82 parts of compressed packages, with the category corresponding to each compressed package specified in a JSON file.) The test set consists of 15 parts of compressed packages.
