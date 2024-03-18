@@ -1,7 +1,7 @@
 # <p align="center">VastTrack: Vast Category Visual Object Tracking</p>
 
 
-<p align="center"> Liang Peng<sup>\*</sup>, Junyuan Gao<sup>\*</sup>, Xinran Liu<sup>\*</sup>, Weihong Li<sup>\*</sup>, Shaohua Dong<sup>\*</sup>, Zhipeng Zhang, Heng Fan<sup>$\dagger$</sup>, Libo Zhang<sup>$\dagger$</sup> <br> (\*: equal contribution; $\dagger$: equal advising)<br> </p>
+<p align="center"> Liang Peng<sup>*</sup>, Junyuan Gao<sup>*</sup>, Xinran Liu<sup>*</sup>, Weihong Li<sup>*</sup>, Shaohua Dong<sup>*</sup>, Zhipeng Zhang, Heng Fan<sup>$\dagger$</sup>, Libo Zhang<sup>$\dagger$</sup> <br> (*: equal contribution; $\dagger$: equal advising)<br> </p>
 
 [**VastTrack: Vast Category Visual Object Tracking**](https://arxiv.org/abs/2403.03493)<br>
 Liang Peng<sup>\*</sup>, Junyuan Gao<sup>\*</sup>, Xinran Liu<sup>\*</sup>, Weihong Li<sup>\*</sup>, Shaohua Dong<sup>\*</sup>, Zhipeng Zhang, Heng Fan<sup>$\dagger$</sup>, Libo Zhang<sup>$\dagger$</sup> <br> (\*: equal contribution; $\dagger$: equal advising)<br>
