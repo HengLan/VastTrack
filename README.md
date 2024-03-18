@@ -23,7 +23,8 @@ Liang Peng<sup>\*</sup>, Junyuan Gao<sup>\*</sup>, Xinran Liu<sup>\*</sup>, Weih
 
 ## :camera:Samples
 <img src="https://github.com/HengLan/VastTrack/blob/main/assets/samples.png" width="110%">
-**Figure** Visualization of several annotation examples in the proposed VastTrack.
+
+**Figure:** Visualization of several annotation examples along with the linguistic descriptions in the proposed VastTrack.
 
 ## :triangular_flag_on_post:Benchmarking
 Coming ...
