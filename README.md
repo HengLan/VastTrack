@@ -63,7 +63,7 @@ part-1.zip
 │       ├── imgs
 │       ├── nlp.txt
 │       └── Groundtruth.txt
-...
+|   ...
 └── class-2
 │   └── video-1
 │       ├── imgs
@@ -73,7 +73,7 @@ part-1.zip
 │       ├── imgs
 │       ├── nlp.txt
 │       └── Groundtruth.txt
-...
+|   ...
 |
 ...
 ```
