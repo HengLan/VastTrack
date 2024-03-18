@@ -91,3 +91,16 @@ Below are the downloading links of VastTrack. We offer two ways, `OneDrive` and 
 We provide two variats of evaluation toolkit for Matlab and Python users.
 * [Matlab Evaluation Toolkit](https://github.com/HengLan/VastTrack/tree/main/MatlabEvaluationToolkit)
 * [Python Evaluation Toolkit](https://github.com/HengLan/VastTrack/tree/main/PythonEvaluationToolkit)
+
+## Citation
+:balloon:If you find our VastTrack useful, please consider giving it a star and citing it. Thanks!
+```
+@article{peng2024vasttrack,
+  title={VastTrack: Vast Category Visual Object Tracking},
+  author={Peng, Liang and Gao, Junyuan and Liu, Xinran and Li, Weihong and Dong, Shaohua and Zhang, Zhipeng and Fan, Heng and Zhang, Libo},
+  journal={arXiv preprint arXiv:2403.03493},
+  year={2024}
+}
+```
+### License
+The videos in VastTrack are collected from [YouTube](https://www.youtube.com/) as it is currently the largest the video platform and many videos come from the real world.
