@@ -31,7 +31,7 @@ Liang Peng<sup>\*</sup>, Junyuan Gao<sup>\*</sup>, Xinran Liu<sup>\*</sup>, Weih
 ### Overall Evaluation SOTA Trackers
 <img src="https://github.com/HengLan/VastTrack/blob/main/assets/overallres.png" width="110%">
 
-**Figure:** Overall evaluation of representative SOTA trackers from different years using PRE, NPRE, and SUC.
+**Figure:** Overall evaluation of representative SOTA trackers from different years on VastTrack w/ PRE, NPRE, and SUC.
 
 
 ## :globe_with_meridians:Dataset Download
