@@ -28,7 +28,7 @@ Liang Peng<sup>\*</sup>, Junyuan Gao<sup>\*</sup>, Xinran Liu<sup>\*</sup>, Weih
 **Figure:** Visualization of several annotation examples along with the linguistic descriptions in the proposed VastTrack.
 
 ## :triangular_flag_on_post:Benchmarking
-### Overall evaluation of state-of-the-arts
+### Overall Evaluation SOTA Trackers
 
 
 ## :globe_with_meridians:Dataset Download
