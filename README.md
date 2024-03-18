@@ -49,14 +49,7 @@ Liang Peng<sup>\*</sup>, Junyuan Gao<sup>\*</sup>, Xinran Liu<sup>\*</sup>, Weih
 
 ### :small_blue_diamond:Organization
 
-Due to large data size of VastTrack, we split it into multiple `Zip` files.
-
-For each video in VastTrack, we provide bounding box annotations, complete occlusion and out-of-view labels, as well as linguistic descriptions. The format of the bounding box is as follows: [x, y, width, height]. (Our training set is divided into 82 parts of compressed packages, with the category corresponding to each compressed package specified in a JSON file.) The test set consists of 15 parts of compressed packages.
-
-
-You can download  it through the following two methods:
-
-
+Due to the large data size, we split VastTrack into multiple `Zip` files. Each file has the following organization:
 ```
 part-1.zip
 ├── class-1
@@ -76,6 +69,11 @@ part-2.zip
 |   ...
 ...
 ```
+
+For each video in VastTrack, we provide bounding box annotations, complete occlusion and out-of-view labels, as well as linguistic descriptions. The format of the bounding box is as follows: [x, y, width, height]. (Our training set is divided into 82 parts of compressed packages, with the category corresponding to each compressed package specified in a JSON file.) The test set consists of 15 parts of compressed packages.
+
+
+You can download  it through the following two methods:
 
 
 
