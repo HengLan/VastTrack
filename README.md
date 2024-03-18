@@ -10,7 +10,7 @@ Liang Peng<sup>\*</sup>, Junyuan Gao<sup>\*</sup>, Xinran Liu<sup>\*</sup>, Weih
 
 **Figure:** We introduce [**VastTrack**](https://arxiv.org/abs/2403.03493), a new large-scale benchmark that aims to facilitate general single object tracking with abundant object categories (over **2.1K classes**) and videos (**over 50K sequences**). Here display partial target trajectory in a video. <em>Please notice that, only a very small part of categories and videos are demonstrated</em>.
 
-## :sparkles:Highlights
+## :sparkles: Highlights
 
 * **Vast Object Category**
     - VastTrack contains **2,115 object classes**, largely surpassing object categories of existing benchmarks
@@ -21,32 +21,32 @@ Liang Peng<sup>\*</sup>, Junyuan Gao<sup>\*</sup>, Xinran Liu<sup>\*</sup>, Weih
 * **High-quality and Dense Annotation**
     - VastTrack offers **manual per-frame** annotations for all videos, building a **high-quality** platform for tracking
 
-## :camera:Samples
+## :camera: Samples
 <img src="https://github.com/HengLan/VastTrack/blob/main/assets/samples.png" width="110%">
 
 **Figure:** Visualization of several annotation examples along with the linguistic descriptions in the proposed VastTrack.
 
-## :triangular_flag_on_post:Benchmarking
+## :triangular_flag_on_post: Benchmarking
 ### :small_blue_diamond:Overall Evaluation SOTA Trackers
 <img src="https://github.com/HengLan/VastTrack/blob/main/assets/overallres.png" width="110%">
 
 **Figure:** Overall evaluation of representative SOTA trackers from different years on VastTrack using PRE/NPRE/SUC.
 
-### :small_blue_diamond:Attribute-based Evaluation
+### :small_blue_diamond: Attribute-based Evaluation
 <img src="https://github.com/HengLan/VastTrack/blob/main/assets/sucattres.png" width="110%">
 
 **Figure:** Attribute-based evaluation of different tracking algorithms on VastTrack using SUC (more in the [paper](https://arxiv.org/abs/2403.03493)).
 
-### :small_blue_diamond:Qualitative Evaluation 
+### :small_blue_diamond: Qualitative Evaluation 
 <img src="https://github.com/HengLan/VastTrack/blob/main/assets/vistrackingres.png" width="110%">
 
 **Figure:** Qualitative results of eight representative trackers on different sequences containing different challenges.
 
 #### More experimental results with analysis can be found in the [paper](https://arxiv.org/abs/2403.03493).
 
-## :globe_with_meridians:Downloading VastTrack
+## :globe_with_meridians: Downloading VastTrack
 
-### :small_blue_diamond:Organization
+### :small_blue_diamond: Organization
 
 Due to the large data size, we split VastTrack into multiple `Zip` files. Each file has the following organization:
 ```
@@ -70,10 +70,10 @@ part-2.zip
 ```
 You need to download all the zips files using the provided links below for a full version of VastTrack.
 
-### :small_blue_diamond:Format of Each Video Sequence
+### :small_blue_diamond: Format of Each Video Sequence
 In each video folder, we provide the frames of the video in the `imgs/` sub-folder, bounding box annotations in the `Groundtruth.txt` file, and linguistic description in the `nlp.txt` file. The format of the bounding box is as follows: `[x, y, width, height]`.
 
-### :small_blue_diamond:Downloading Links
+### :small_blue_diamond: Downloading Links
 Below are the downloading links of VastTrack. We offer two ways, `OneDrive` and `Baidu Cloud Drive`, to download the data.
 
 * **OneDrive**
@@ -86,15 +86,15 @@ Below are the downloading links of VastTrack. We offer two ways, `OneDrive` and 
 
 **Note:** The training set of VastTrack contains 82 Zip files in total, and the category corresponding to each compressed package is specified in a JSON file. The test set consists of 15 Zip packages.
 
-## :straight_ruler:Evaluation Toolkit
+## :straight_ruler: Evaluation Toolkit
 We provide two variats of evaluation toolkit for Matlab and Python users.
 * [Matlab Evaluation Toolkit](https://github.com/HengLan/VastTrack/tree/main/MatlabEvaluationToolkit)
 * [Python Evaluation Toolkit](https://github.com/HengLan/VastTrack/tree/main/PythonEvaluationToolkit)
 
-## :memo:License
+## :memo: License
 The video sequences in VastTrack are collected from [YouTube](https://www.youtube.com/) (under Creative Commons Attribution 4.0 License) as it is currently the largest the video platform and many videos come from the real world. We provide VastTrack for **non-commercial research purposes only** and are not responsible for the content of these videos.
 
-## :balloon:Citation
+## :balloon: Citation
 If you find our VastTrack useful, please consider giving it a star and citing it. Thanks!
 ```
 @article{peng2024vasttrack,
