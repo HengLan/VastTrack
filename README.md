@@ -45,7 +45,7 @@ Liang Peng<sup>\*</sup>, Junyuan Gao<sup>\*</sup>, Xinran Liu<sup>\*</sup>, Weih
 
 #### More experimental results with analysis can be found in the [paper](https://arxiv.org/abs/2403.03493).
 
-## :globe_with_meridians:Download
+## :globe_with_meridians:Downloading VastTrack
 For each video in VastTrack, we provide bounding box annotations, complete occlusion and out-of-view labels, as well as linguistic descriptions. The format of the bounding box is as follows: [x, y, width, height]. (Our training set is divided into 82 parts of compressed packages, with the category corresponding to each compressed package specified in a JSON file.) The test set consists of 15 parts of compressed packages.
 
 
