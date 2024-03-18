@@ -77,6 +77,18 @@ In each video folder, we provide the frames of the video in the `imgs/` sub-fold
 ### :small_blue_diamond:Downloading Links
 Below are the downloading links of VastTrack. We offer two ways, `OneDrive` and `Baidu Cloud Drive`, to download the data.
 
+#### OneDrive
+`OneDrive-Train`
+https://1drv.ms/f/s!AnWdA-LZ-BEt5W9kQtMU8nB19qpy?e=IYm3eF
+
+Baidu Cloud Drive:
+
+Train:
+Link: https://pan.baidu.com/s/1ov-4PkKWsmiM_QZLL7pZQw?pwd=glze
+Extraction code: glze
+
+
+
 Particularly, there
 (Our training set is divided into 82 parts of compressed packages, with the category corresponding to each compressed package specified in a JSON file.) The test set consists of 15 parts of compressed packages.
 
