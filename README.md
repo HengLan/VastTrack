@@ -33,12 +33,12 @@ Liang Peng<sup>\*</sup>, Junyuan Gao<sup>\*</sup>, Xinran Liu<sup>\*</sup>, Weih
 
 **Figure:** Overall evaluation of representative SOTA trackers from different years on VastTrack using PRE/NPRE/SUC.
 
-### Attribute-based Evaluation
+### :small_blue_diamond:Attribute-based Evaluation
 <img src="https://github.com/HengLan/VastTrack/blob/main/assets/sucattres.png" width="110%">
 
 **Figure:** Attribute-based evaluation of different tracking algorithms on VastTrack using SUC (more in [paper](https://arxiv.org/abs/2403.03493)).
 
-### Qualitative Evaluation 
+### :small_blue_diamond:Qualitative Evaluation 
 <img src="https://github.com/HengLan/VastTrack/blob/main/assets/vistrackingres.png" width="110%">
 
 **Figure:** Qualitative results of eight representative trackers on different sequences containing different challenges.
