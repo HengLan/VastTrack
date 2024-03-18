@@ -74,7 +74,7 @@ part-1.zip
 │       ├── nlp.txt
 │       └── Groundtruth.txt
 |   ...
-|
+part-2.zip
 ...
 ```
 
