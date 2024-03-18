@@ -69,8 +69,13 @@ part-2.zip
 |   ...
 ...
 ```
+You need to download all the zips files using the provided links below for a full version of VastTrack.
 
-For each video in VastTrack, we provide bounding box annotations, complete occlusion and out-of-view labels, as well as linguistic descriptions. The format of the bounding box is as follows: [x, y, width, height]. (Our training set is divided into 82 parts of compressed packages, with the category corresponding to each compressed package specified in a JSON file.) The test set consists of 15 parts of compressed packages.
+### :small_blue_diamond:Format of Videos
+For each video folder, we provide the frames of the video in the `imgs` sub-folder, bounding box annotations in the `Groundtruth.txt` file, and linguistic description in the `nlp.txt` file. The format of the bounding box is as follows: `[x, y, width, height]`.
+
+
+(Our training set is divided into 82 parts of compressed packages, with the category corresponding to each compressed package specified in a JSON file.) The test set consists of 15 parts of compressed packages.
 
 
 You can download  it through the following two methods:
