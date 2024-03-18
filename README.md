@@ -82,6 +82,11 @@ Below are the downloading links of VastTrack. We offer two ways, `OneDrive` and 
 * The downloading link for the **`training set`** is [here](https://1drv.ms/f/s!AnWdA-LZ-BEt5W9kQtMU8nB19qpy?e=IYm3eF).
 * The downloading link for the **`test set`** is here (to be uploaded).
 
+#### Baidu Cloud Drive
+
+* The downloading link for the **`training set`** is [here](https://pan.baidu.com/s/1ov-4PkKWsmiM_QZLL7pZQw?pwd=glze) (you may need the extraction code: glze).
+* The downloading link for the **`test set`** is here (to be uploaded).
+
 
 Baidu Cloud Drive:
 
