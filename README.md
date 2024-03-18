@@ -19,7 +19,7 @@ Liang Peng<sup>\*</sup>, Junyuan Gao<sup>\*</sup>, Xinran Liu<sup>\*</sup>, Weih
 * **Rich Linguistic Description**
     - VastTrack provides a linguistic description for each sequence, collecting **more than 50K** descriptions
 * **High-quality and Dense Annotation**
-    - VastTrack offers **manual per-frame** annotations for all videos, building a high-quality platform for tracking
+    - VastTrack offers **manual per-frame** annotations for all videos, building a **high-quality** platform for tracking
 
 ## :camera:Video Samples
 Coming ...
