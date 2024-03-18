@@ -21,7 +21,7 @@ Liang Peng<sup>\*</sup>, Junyuan Gao<sup>\*</sup>, Xinran Liu<sup>\*</sup>, Weih
 * **High-quality and Dense Annotation**
     - VastTrack offers **manual per-frame** annotations for all videos, building a high-quality platform for tracking
 
-## :video_camera:Video Samples
+## :camera:Video Samples
 Coming ...
 
 ## :triangular_flag_on_post:Benchmarking
