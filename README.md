@@ -54,16 +54,24 @@ You can download  it through the following two methods:
 
 ```
 part-num.zip
-├── class1
-│   └── video
+├── class-1
+│   └── video-1
 │       ├── imgs
 │       ├── nlp.txt
 │       └── Groundtruth.txt
-└── class2
-    └── video
-        ├── imgs
-        ├── nlp.txt
-        └── Groundtruth.txt
+│   └── video-2
+│       ├── imgs
+│       ├── nlp.txt
+│       └── Groundtruth.txt
+└── class-2
+│   └── video-1
+│       ├── imgs
+│       ├── nlp.txt
+│       └── Groundtruth.txt
+│   └── video-2
+│       ├── imgs
+│       ├── nlp.txt
+│       └── Groundtruth.txt
 ```
 
 
