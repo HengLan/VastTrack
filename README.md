@@ -103,4 +103,4 @@ We provide two variats of evaluation toolkit for Matlab and Python users.
 }
 ```
 ### License
-The video sequences in VastTrack are collected from [YouTube](https://www.youtube.com/) (under Creative Commons Attribution 4.0 License) as it is currently the largest the video platform and many videos come from the real world. We offer VastTrack for **non-commercial research purposes only** and are not responsible for the content of these videos.
+The video sequences in VastTrack are collected from [YouTube](https://www.youtube.com/) (under Creative Commons Attribution 4.0 License) as it is currently the largest the video platform and many videos come from the real world. We provide VastTrack for **non-commercial research purposes only** and are not responsible for the content of these videos.
