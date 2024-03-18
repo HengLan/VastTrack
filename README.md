@@ -1,7 +1,7 @@
 # <p align="center">VastTrack: Vast Category Visual Object Tracking</p>
 
 
-[**VastTrack: Vast Category Visual Object Tracking**](https://arxiv.org/abs/2403.03493) <br>
+<p align="center"> [**VastTrack: Vast Category Visual Object Tracking**](https://arxiv.org/abs/2403.03493) </p> <br>
 Liang Peng<sup>\*</sup>, Junyuan Gao<sup>\*</sup>, Xinran Liu<sup>\*</sup>, Weihong Li<sup>\*</sup>, Shaohua Dong<sup>\*</sup>, Zhipeng Zhang, Heng Fan<sup>$\dagger$</sup>, Libo Zhang<sup>$\dagger$</sup> <br> (\*: equal contribution; $\dagger$: equal advising)<br>
 [[`arXiv`](https://arxiv.org/abs/2403.03493)] [[`Matlab Code`](https://github.com/HengLan/VastTrack/tree/main/MatlabEvaluationToolkit)] [[`Python Code`](https://github.com/HengLan/VastTrack/tree/main/PythonEvaluationToolkit)]
 
