@@ -22,6 +22,7 @@ Liang Peng<sup>\*</sup>, Junyuan Gao<sup>\*</sup>, Xinran Liu<sup>\*</sup>, Weih
     - VastTrack offers **manual per-frame** annotations for all videos, building a high-quality platform for tracking
 
 ## Video Demo
+Coming ...
 
 ## Dataset Download
 For each video in VastTrack, we provide bounding box annotations, complete occlusion and out-of-view labels, as well as linguistic descriptions. The format of the bounding box is as follows: [x, y, width, height]. (Our training set is divided into 82 parts of compressed packages, with the category corresponding to each compressed package specified in a JSON file.) The test set consists of 15 parts of compressed packages.
