@@ -36,7 +36,7 @@ Liang Peng<sup>\*</sup>, Junyuan Gao<sup>\*</sup>, Xinran Liu<sup>\*</sup>, Weih
 ### Attribute-based Evaluation
 <img src="https://github.com/HengLan/VastTrack/blob/main/assets/sucattres.png" width="110%">
 
-**Figure:**Attribute-based evaluation of different tracking algorithms on VastTrack using SUC (more in introduce [paper](https://arxiv.org/abs/2403.03493)).
+**Figure:**Attribute-based evaluation of different tracking algorithms on VastTrack using SUC (more in [paper](https://arxiv.org/abs/2403.03493)).
 
 
 ## :globe_with_meridians:Dataset Download
