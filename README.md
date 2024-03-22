@@ -78,13 +78,13 @@ Below are the downloading links of VastTrack. We offer two ways, `OneDrive` and 
 
 * **OneDrive**
   - The downloading link for the **`training set`** is [here](https://1drv.ms/f/s!AnWdA-LZ-BEt5W9kQtMU8nB19qpy?e=IYm3eF).
-  - The downloading link for the **`test set`** is here (to be uploaded).
+  - The downloading link for the **`test set`** is [here](https://1drv.ms/f/s!AnWdA-LZ-BEt5lIfdk89PVVTWl61?e=qHiyXV).
 
 * **Baidu Cloud Drive**
   - The downloading link for the **`training set`** is [here](https://pan.baidu.com/s/1_cGe3XR7hgqMSUzQjKaz5A?pwd=qs2c) (you may need the extraction code: `qs2c`).
-  - The downloading link for the **`test set`** is here (to be uploaded).
+  - The downloading link for the **`test set`** is [here](https://pan.baidu.com/s/1q-Fpb4Ohd2g_TyElUR7SCg?pwd=9gza) (you may need the extraction code: `9gza`).
 
-To validate if the downloaded files are complete or not, please refer to `MD5 files` ([MD5-Training](https://github.com/HengLan/VastTrack/blob/main/assets/train_md5.txt) and MD5-Test).
+To validate if the downloaded files are complete or not, please refer to `MD5 files` ([MD5-Training](https://github.com/HengLan/VastTrack/blob/main/assets/train_md5.txt) and ([MD5-Test])).
 
 **Note:** The training set of VastTrack contains 82 Zip files in total, and the category corresponding to each compressed package is specified in a JSON file. The test set consists of 15 Zip packages.
 
