@@ -84,7 +84,7 @@ Below are the downloading links of VastTrack. We offer two ways, `OneDrive` and 
   - The downloading link for the **`training set`** is [here](https://pan.baidu.com/s/1_cGe3XR7hgqMSUzQjKaz5A?pwd=qs2c) (you may need the extraction code: `qs2c`).
   - The downloading link for the **`test set`** is [here](https://pan.baidu.com/s/1q-Fpb4Ohd2g_TyElUR7SCg?pwd=9gza) (you may need the extraction code: `9gza`).
 
-To validate if the downloaded files are complete or not, please refer to `MD5 files` ([MD5-Training](https://github.com/HengLan/VastTrack/blob/main/assets/train_md5.txt) and ([MD5-Test](https://github.com/HengLan/VastTrack/blob/main/assets/test_md5.txt))).
+To validate if the downloaded files are complete or not, please refer to `MD5 files` ([MD5-Training](https://github.com/HengLan/VastTrack/blob/main/assets/train_md5.txt) and [MD5-Test](https://github.com/HengLan/VastTrack/blob/main/assets/test_md5.txt)).
 
 **Note:** The training set of VastTrack contains 82 Zip files in total, and the category corresponding to each compressed package is specified in a JSON file. The test set consists of 15 Zip packages.
 
