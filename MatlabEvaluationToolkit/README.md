@@ -5,6 +5,7 @@ This is the evaluation toolkit for [VastTrack](https://arxiv.org/abs/2403.03493)
 ## Usage
 
 - Download the repository, unzip it to your computer
+- Download <a href="https://drive.google.com/file/d/14gbxoSCe31qho1IV6pXx5LI-nzpDechR/view?usp=share_link">tracking result</a>, unzip it to folder `tracking_results/` (if this is not working, use the above link)
 - Run `run_tracker_performance_evaluation.m` in Matlab to evaluate and compare different trackers
 
 ## Download the whole package with tracking results
