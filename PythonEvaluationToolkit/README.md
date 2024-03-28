@@ -39,7 +39,7 @@ Format the trackers' results. They should look like this:
 ## Usage
 Our toolkit supports two functions: 
 
-1) Simply print the tracker's Success rate, Precision, Normalized Precision on VastTrack.
+1) Simply print the trackers' Success rate, Precision, Normalized Precision on VastTrack.
 ```
 python analysis_results.py --results_dir /path/to/trackers/results --to_print_results True
 ```
