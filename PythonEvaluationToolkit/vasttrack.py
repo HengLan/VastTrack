@@ -1,5 +1,5 @@
 import numpy as np
-from dev_test.release.utils import load_text, Sequence, SequenceList
+from utils import load_text, Sequence, SequenceList
 
 
 class VastTrackDataset:
