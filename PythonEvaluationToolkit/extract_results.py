@@ -1,7 +1,7 @@
 import torch
 from tqdm import tqdm
 import os
-from dev_test.release.utils import load_text
+from utils import load_text
 import numpy as np
 
 
