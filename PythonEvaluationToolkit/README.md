@@ -6,12 +6,10 @@ This is the official Python evaluation toolkit for [VastTrack: Vast Category Vis
 
 ## Configuration
 First, make sure you have downloaded our VastTrack dataset and the test set list we provided.
-Then, as shown below, modify line 7 in dataset.py respectively to the path of the VastTrack dataset and the path of the test set list.
+Then, as shown below, modify line 7 in dataset.py to the path of the VastTrack dataset and the path of the test set list.
 ```
 dataset_dict = dict(
-    vasttrack=DatasetInfo(module="vasttrack", class_name="VastTrackDataset",
-                          kwargs=dict(base_path="/path/to/vasttrack",
-                                      txt_file_path="/path/to/vasttrack_test_set_list.txt")),
+    vasttrack=DatasetInfo(module="vasttrack", class_name="VastTrackDataset", kwargs=dict(base_path="/path/to/vasttrack", txt_file_path="/path/to/vasttrack_test_set_list.txt"))
 )
 ```
 ## Trackers Results Preparation
