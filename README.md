@@ -78,7 +78,7 @@ Below are the downloading links of VastTrack. We offer two ways, `OneDrive` and 
 
 * **OneDrive**
   - The downloading link for the **`training set`** is [here](https://1drv.ms/f/s!AnWdA-LZ-BEt5W9kQtMU8nB19qpy?e=IYm3eF).
-  - The downloading link for the **`test set`** is [here](https://yangtzeueducn-my.sharepoint.com/:f:/g/personal/2022720528_yangtzeu_edu_cn/EtOz2Y3xgnlHk1d4pyVLtpYB1k54nzeHMQjPoOFqJTbfcQ?e=u7O89m).
+  - The downloading link for the **`test set`** is [here](https://yangtzeueducn-my.sharepoint.com/:f:/g/personal/2022720528_yangtzeu_edu_cn/EgAdq8MefB1At6wT5xs_q6MB6w1yZZ-aECDpnDzf1yPKwQ?e=CpmFDG).
 
 * **Baidu Cloud Drive**
   - The downloading link for the **`training set`** is [here](https://pan.baidu.com/s/1_cGe3XR7hgqMSUzQjKaz5A?pwd=qs2c) (you may need the extraction code: `qs2c`).
