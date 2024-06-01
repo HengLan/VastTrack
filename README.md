@@ -88,6 +88,9 @@ To validate if the downloaded files are complete or not, please refer to `MD5 fi
 
 **Note:** The training set of VastTrack contains 82 Zip files in total, and the category corresponding to each compressed package is specified in a JSON file. The test set consists of 15 Zip packages.
 
+### :small_blue_diamond: Meta Data
+The meta data of VastTrack can be downloaded on OneDrive at [here](https://1drv.ms/u/s!AnWdA-LZ-BEt50-JD4Id-imivltZ?e=QXB7fS).
+
 ## :straight_ruler: Evaluation Toolkit
 We provide two variats of evaluation toolkit for Matlab and Python users.
 * [Matlab Evaluation Toolkit](https://github.com/HengLan/VastTrack/tree/main/MatlabEvaluationToolkit)
