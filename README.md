@@ -78,11 +78,11 @@ Below are the downloading links of VastTrack. We offer two ways, `OneDrive` and 
 
 * **OneDrive**
   - The downloading link for the **`training set`** is [here](https://1drv.ms/f/s!AnWdA-LZ-BEt5W9kQtMU8nB19qpy?e=IYm3eF).
-  - The downloading link for the **`test set`** is [here](https://yangtzeueducn-my.sharepoint.com/:f:/g/personal/2022720528_yangtzeu_edu_cn/EgAdq8MefB1At6wT5xs_q6MB6w1yZZ-aECDpnDzf1yPKwQ?e=CpmFDG).
+  - The downloading link for the **`test set`** is [here](https://1drv.ms/f/s!AnWdA-LZ-BEt6EYdpunXJy7d5gbg?e=AQdCcC).
 
 * **Baidu Cloud Drive**
   - The downloading link for the **`training set`** is [here](https://pan.baidu.com/s/1_cGe3XR7hgqMSUzQjKaz5A?pwd=qs2c) (you may need the extraction code: `qs2c`).
-  - The downloading link for the **`test set`** is [here](https://pan.baidu.com/s/1q-Fpb4Ohd2g_TyElUR7SCg?pwd=9gza) (you may need the extraction code: `9gza`).
+  - The downloading link for the **`test set`** is [here](https://pan.baidu.com/s/1M4TnKpVtixeQFxdJ-Z_amw?pwd=Vast) (you may need the extraction code: `Vast`).
 
 To validate if the downloaded files are complete or not, please refer to `MD5 files` ([MD5-Training](https://github.com/HengLan/VastTrack/blob/main/assets/train_md5.txt) and [MD5-Test](https://github.com/HengLan/VastTrack/blob/main/assets/test_md5.txt)).
 
